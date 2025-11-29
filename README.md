@@ -93,49 +93,68 @@ Architecting decentralized systems
 
 <br/>
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Deep Learning Image Segmentation System
-**Production-grade computer vision pipeline for precise object isolation**
+### 🎯 [Project Name Here]
+Brief one-liner description of what it does
 
-```
-Architecture: Custom U-Net with attention mechanisms
-Performance: 98%+ edge accuracy, <2s inference time
-Scale: Processing 10K+ images daily
-Stack: PyTorch • OpenCV • FastAPI • Docker • AWS
-```
+**Tech:** PyTorch • FastAPI • Docker  
+**Highlights:** Real technical achievement here
 
-**Impact:** Automated background removal workflow, reducing manual processing time by 95%
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
 
----
+</td>
+<td width="50%" valign="top">
 
-### Solana DeFi Smart Contract Suite
-**Secure, audited smart contracts managing on-chain value**
+### ⚡ [Project Name Here]
+Brief one-liner description of what it does
 
-```
-Functionality: AMM logic • Token vesting • Multi-sig treasury
-Optimization: Reduced transaction costs by 40%
-Security: Zero vulnerabilities in third-party audit
-Stack: Rust • Anchor Framework • Solana Web3.js
-```
+**Tech:** Rust • Solana • Anchor  
+**Highlights:** Real technical achievement here
 
-**Impact:** Handling $XXX,XXX in total on-chain transactions
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
 
----
+</td>
+</tr>
 
-### Full-Stack ML Platform
-**End-to-end system integrating AI models with scalable web infrastructure**
+<tr>
+<td width="50%" valign="top">
 
-```
-Features: Real-time inference API • WebSocket updates • Job queue
-Architecture: Microservices with event-driven design
-Performance: 99.9% uptime, <100ms API response time
-Stack: Next.js • FastAPI • PyTorch • Redis • PostgreSQL • Kubernetes
-```
+### 🌐 [Project Name Here]
+Brief one-liner description of what it does
 
-**Impact:** Serving 50K+ monthly users with AI-powered features
+**Tech:** Next.js • PostgreSQL  
+**Highlights:** Real technical achievement here
+
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 [Project Name Here]
+Brief one-liner description of what it does
+
+**Tech:** OpenCV • TensorFlow  
+**Highlights:** Real technical achievement here
+
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
+
+</td>
+</tr>
+</table>
+
+<!-- Dynamically show your pinned repos -->
+<a href="https://github.com/imraghavbansal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imraghavbansal&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+</a>
+<a href="https://github.com/imraghavbansal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imraghavbansal&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+</a>
 
 </div>
 
@@ -144,36 +163,68 @@ Stack: Next.js • FastAPI • PyTorch • Redis • PostgreSQL • Kubernetes
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" />
+
+<a href="https://github.com/imraghavbansal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" />
+</a>
+
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="98%" />
 </div>
 
 <br/>
 
-## 💼 Professional Journey
+<img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
-**AI/ML Engineer** • Production Systems  
-→ Architected and deployed deep learning models achieving 95%+ accuracy in production  
-→ Optimized inference pipelines, reducing latency from 8s to 1.2s (85% improvement)  
-→ Built automated training pipelines processing 500K+ images monthly  
-→ Implemented model versioning and A/B testing infrastructure
+<br/>
 
-**Blockchain Engineer** • Web3 Infrastructure  
-→ Developed Solana smart contracts securing $XXX,XXX in on-chain value  
-→ Designed indexing architecture handling 1M+ transactions daily  
-→ Implemented security best practices preventing common vulnerabilities  
-→ Optimized contract execution reducing compute units by 40%
+## 💼 Experience
 
-**Full-Stack Engineer** • Scalable Systems  
-→ Built microservices architecture serving 100K+ monthly active users  
-→ Implemented CI/CD pipelines reducing deployment time from hours to minutes  
-→ Designed database schemas and caching strategies achieving 99.9% uptime  
-→ Led migration to Kubernetes, improving resource efficiency by 60%
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 AI/ML Engineer
+**Production Systems**
+
+- Built CV pipelines processing 10K+ daily images
+- Optimized models: 8s → 1.2s inference  
+- Deployed systems achieving 95%+ accuracy
+- Automated training for 500K+ images/month
+
+</td>
+<td width="33%" valign="top">
+
+### ⛓️ Blockchain Engineer  
+**Web3 Infrastructure**
+
+- Architected Solana smart contracts
+- Built indexers handling 1M+ tx/day
+- Reduced compute costs by 40%
+- Implemented multi-sig security
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Full-Stack Engineer
+**Scalable Systems**
+
+- Served 100K+ monthly active users
+- Built microservices with 99.9% uptime
+- Migrated to K8s (60% efficiency gain)
+- CI/CD: hours → minutes deployment
+
+</td>
+</tr>
+</table>
 
 <br/>
 
