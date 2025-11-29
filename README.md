@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghav%20Bansal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raghav%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it&descSize=16&descAlignY=55" width="100%"/>
 
-### AI Engineer • Computer Vision Specialist • Web3 Architect
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Specialist;Web3+Architect;Full-Stack+Developer" alt="Typing SVG" />
+</h3>
 
-*Building intelligent systems that scale*
+<p style="font-size: 18px; margin: 20px 0;">
+  <em>Building intelligent systems that scale</em>
+</p>
 
-<p>
+<p style="margin: 25px 0;">
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/imraghavbansal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -16,15 +20,23 @@
 
 <br/>
 
-## 🎯 Overview
+<details open>
+<summary><h2>🎯 Overview</h2></summary>
+
+<br/>
 
 AI engineer with expertise in **production machine learning systems**, **computer vision**, and **blockchain infrastructure**. I specialize in taking models from research to deployment—building systems that handle real-world complexity at scale.
 
 **Core competencies:** Deep learning architecture design, image segmentation pipelines, smart contract development, distributed systems, and full-stack engineering.
 
+</details>
+
 <br/>
 
-## 💡 What I Build
+<details>
+<summary><h2>💡 What I Build</h2></summary>
+
+<br/>
 
 <table>
 <tr>
@@ -55,9 +67,12 @@ Architecting decentralized systems
 </tr>
 </table>
 
-<br/>
+</details>
 
-## 🛠️ Technical Arsenal
+<details>
+<summary><h2>🛠️ Technical Arsenal</h2></summary>
+
+<br/>
 
 <div align="center">
 
@@ -91,9 +106,12 @@ Architecting decentralized systems
 
 </div>
 
-<br/>
+</details>
 
-## 🚀 Featured Projects
+<details>
+<summary><h2>🚀 Featured Projects</h2></summary>
+
+<br/>
 
 <div align="center">
 <table>
@@ -158,9 +176,12 @@ Brief one-liner description of what it does
 
 </div>
 
-<br/>
+</details>
 
-## 📊 GitHub Analytics
+<details>
+<summary><h2>📊 GitHub Analytics</h2></summary>
+
+<br/>
 
 <div align="center">
 
@@ -184,9 +205,12 @@ Brief one-liner description of what it does
 
 <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
-<br/>
+</details>
 
-## 💼 Experience
+<details>
+<summary><h2>💼 Experience</h2></summary>
+
+<br/>
 
 <table>
 <tr>
@@ -226,9 +250,12 @@ Brief one-liner description of what it does
 </tr>
 </table>
 
-<br/>
+</details>
 
-## 🎓 Continuous Growth
+<details>
+<summary><h2>🎓 Continuous Growth</h2></summary>
+
+<br/>
 
 Staying at the forefront of technology through:
 
@@ -237,9 +264,14 @@ Staying at the forefront of technology through:
 - 🌐 Contributing to open-source ML and Web3 projects
 - 💬 Engaging with engineering communities and sharing knowledge
 
+</details>
+
 <br/>
 
-## 🤝 Let's Collaborate
+<details open>
+<summary><h2>🤝 Let's Collaborate</h2></summary>
+
+<br/>
 
 I'm interested in challenging projects involving:
 
@@ -270,3 +302,5 @@ I'm interested in challenging projects involving:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+</details>
