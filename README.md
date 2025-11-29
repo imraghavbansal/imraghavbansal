@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raghav%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghav%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Specialist;Web3+Architect;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Specialist;Web3+Architect;Full-Stack+Developer" alt="Typing SVG" />
 </h3>
 
-<p style="font-size: 18px; margin: 20px 0;">
+<p align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%E2%80%9CThe+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do.%E2%80%9D+%E2%80%93+Steve+Jobs;%E2%80%9CWhat+I+cannot+create%2C+I+do+not+understand.%E2%80%9D+%E2%80%93+Richard+Feynman;%E2%80%9CWhen+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor.%E2%80%9D+%E2%80%93+Elon+Musk;%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%93+Alan+Kay;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%93+John+Johnson;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%93+Austin+Freeman;%E2%80%9CCode+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%E2%80%9D+%E2%80%93+Cory+House" />
+</p>
+
+<p style="font-size: 16px; margin: 25px 0; color: #9CA3AF;">
   <em>Building intelligent systems that scale</em>
 </p>
 
@@ -18,25 +22,17 @@
 
 </div>
 
-<br/>
+---
 
-<details open>
-<summary><h2>🎯 Overview</h2></summary>
-
-<br/>
+## 🎯 Overview
 
 AI engineer with expertise in **production machine learning systems**, **computer vision**, and **blockchain infrastructure**. I specialize in taking models from research to deployment—building systems that handle real-world complexity at scale.
 
 **Core competencies:** Deep learning architecture design, image segmentation pipelines, smart contract development, distributed systems, and full-stack engineering.
 
-</details>
+---
 
-<br/>
-
-<details>
-<summary><h2>💡 What I Build</h2></summary>
-
-<br/>
+## 💡 What I Build
 
 <table>
 <tr>
@@ -67,12 +63,9 @@ Architecting decentralized systems
 </tr>
 </table>
 
-</details>
+---
 
-<details>
-<summary><h2>🛠️ Technical Arsenal</h2></summary>
-
-<br/>
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
@@ -106,12 +99,9 @@ Architecting decentralized systems
 
 </div>
 
-</details>
+---
 
-<details>
-<summary><h2>🚀 Featured Projects</h2></summary>
-
-<br/>
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -176,12 +166,9 @@ Brief one-liner description of what it does
 
 </div>
 
-</details>
+---
 
-<details>
-<summary><h2>📊 GitHub Analytics</h2></summary>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -205,12 +192,9 @@ Brief one-liner description of what it does
 
 <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
-</details>
+---
 
-<details>
-<summary><h2>💼 Experience</h2></summary>
-
-<br/>
+## 💼 Experience
 
 <table>
 <tr>
@@ -250,12 +234,9 @@ Brief one-liner description of what it does
 </tr>
 </table>
 
-</details>
+---
 
-<details>
-<summary><h2>🎓 Continuous Growth</h2></summary>
-
-<br/>
+## 🎓 Continuous Growth
 
 Staying at the forefront of technology through:
 
@@ -264,14 +245,9 @@ Staying at the forefront of technology through:
 - 🌐 Contributing to open-source ML and Web3 projects
 - 💬 Engaging with engineering communities and sharing knowledge
 
-</details>
+---
 
-<br/>
-
-<details open>
-<summary><h2>🤝 Let's Collaborate</h2></summary>
-
-<br/>
+## 🤝 Let's Collaborate
 
 I'm interested in challenging projects involving:
 
@@ -293,14 +269,8 @@ I'm interested in challenging projects involving:
 
 <br/><br/>
 
-*"The best way to predict the future is to build it."*
-
-<br/>
-
 ![](https://komarev.com/ghpvc/?username=imraghavbansal&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-</details>
