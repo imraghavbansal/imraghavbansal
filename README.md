@@ -157,12 +157,12 @@ Brief one-liner description of what it does
 
 <div align="center">
 
-### 📈 Contributions in 2025
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
-</p>
+<a href="https://github.com/imraghavbansal">
+  <img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+</a>
+<a href="https://github.com/imraghavbansal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</a>
 
 </div>
 
