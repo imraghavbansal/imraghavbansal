@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghav%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Specialist;Web3+Architect;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Specialist;Full-Stack+Developer" alt="Typing SVG" />
 </h3>
 
 <p align="center" style="margin: 30px 0;">
@@ -50,14 +50,14 @@ Building neural networks that see and understand
 </td>
 <td width="50%">
 
-### ⛓️ Web3 & Blockchain
-Architecting decentralized systems
+### 🌐 Full-Stack Development
+Architecting scalable web systems
 
-- Solana smart contracts (Rust/Anchor)
-- DeFi protocols & token mechanics
-- On-chain program optimization
-- Blockchain indexing systems
-- Multi-signature treasury logic
+- Modern web applications (React/Next.js)
+- RESTful & GraphQL APIs
+- Microservices architecture
+- Real-time data processing
+- Cloud infrastructure (AWS/GCP)
 
 </td>
 </tr>
@@ -76,11 +76,6 @@ Architecting decentralized systems
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Blockchain & Web3
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Backend & DevOps
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -122,7 +117,7 @@ Brief one-liner description of what it does
 ### ⚡ [Project Name Here]
 Brief one-liner description of what it does
 
-**Tech:** Rust • Solana • Anchor  
+**Tech:** Next.js • Node.js • PostgreSQL  
 **Highlights:** Real technical achievement here
 
 [![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
@@ -136,7 +131,7 @@ Brief one-liner description of what it does
 ### 🌐 [Project Name Here]
 Brief one-liner description of what it does
 
-**Tech:** Next.js • PostgreSQL  
+**Tech:** React • TypeScript • TailwindCSS  
 **Highlights:** Real technical achievement here
 
 [![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
@@ -156,7 +151,7 @@ Brief one-liner description of what it does
 </tr>
 </table>
 
-<!-- Dynamically show your pinned repos -->
+<!-- Dynamically show your pinned repos - replace REPO_NAME_1 and REPO_NAME_2 with your actual repo names -->
 <a href="https://github.com/imraghavbansal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imraghavbansal&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
 </a>
@@ -168,9 +163,11 @@ Brief one-liner description of what it does
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
+
+### 📈 Contributions in 2025
 
 <a href="https://github.com/imraghavbansal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" />
@@ -179,60 +176,48 @@ Brief one-liner description of what it does
 
 </div>
 
+---
+
+## 📉 Activity Overview
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" width="49%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imraghavbansal&theme=tokyonight" width="98%" />
+</div>
+
+---
+
+## 📊 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="98%" />
 </div>
 
-<br/>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+## 💻 Contribution Activity
+
+<div align="center">
+
+<!-- These numbers will auto-update based on your actual GitHub activity -->
+<img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&custom_title=My%20GitHub%20Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" />
+
+</div>
 
 ---
 
-## 💼 Experience
+## 🏆 GitHub Achievements
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 AI/ML Engineer
-**Production Systems**
-
-- Built CV pipelines processing 10K+ daily images
-- Optimized models: 8s → 1.2s inference  
-- Deployed systems achieving 95%+ accuracy
-- Automated training for 500K+ images/month
-
-</td>
-<td width="33%" valign="top">
-
-### ⛓️ Blockchain Engineer  
-**Web3 Infrastructure**
-
-- Architected Solana smart contracts
-- Built indexers handling 1M+ tx/day
-- Reduced compute costs by 40%
-- Implemented multi-sig security
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 Full-Stack Engineer
-**Scalable Systems**
-
-- Served 100K+ monthly active users
-- Built microservices with 99.9% uptime
-- Migrated to K8s (60% efficiency gain)
-- CI/CD: hours → minutes deployment
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
 
 ---
 
@@ -253,10 +238,12 @@ I'm interested in challenging projects involving:
 
 - **Advanced Computer Vision:** Object detection, segmentation, generative models
 - **Production ML Systems:** High-performance inference, model optimization, MLOps
-- **Blockchain Infrastructure:** DeFi protocols, token mechanics, on-chain systems
+- **Full-Stack Development:** Scalable web applications, modern architectures
 - **Distributed Systems:** Microservices, event-driven architecture, real-time processing
 
 **Open to:** Full-time opportunities • Contract work • Technical consulting • Research collaboration
+
+---
 
 <div align="center">
 
@@ -270,6 +257,8 @@ I'm interested in challenging projects involving:
 <br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=imraghavbansal&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
