@@ -171,16 +171,22 @@ Brief one-liner description of what it does
 ## 📉 Activity Overview
 
 <div align="center">
-  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" alt="GitHub Streak" style="max-width: 49%; height: auto;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" alt="Productive Time" style="max-width: 49%; height: auto;"/>
 </p>
 
-<br/>
+</div>
+
+---
+
+## 📊 Profile Details
+
+<div align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imraghavbansal&theme=tokyonight" width="98%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imraghavbansal&theme=tokyonight" alt="Profile Details" style="max-width: 100%; height: auto;"/>
 </p>
 
 </div>
@@ -190,9 +196,9 @@ Brief one-liner description of what it does
 ## 📊 Contribution Graph
 
 <div align="center">
-  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
 </p>
 
 </div>
@@ -204,8 +210,8 @@ Brief one-liner description of what it does
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&custom_title=My%20GitHub%20Stats" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" style="max-width: 49%; height: auto;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" style="max-width: 49%; height: auto;"/>
 </p>
 
 </div>
@@ -215,9 +221,9 @@ Brief one-liner description of what it does
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
 </p>
 
 </div>
