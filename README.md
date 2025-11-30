@@ -2,22 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghav%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Specialist;Full-Stack+Developer" alt="Typing SVG" />
-</h3>
+<br/>
 
-<p align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%E2%80%9CThe+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do.%E2%80%9D+%E2%80%93+Steve+Jobs;%E2%80%9CWhat+I+cannot+create%2C+I+do+not+understand.%E2%80%9D+%E2%80%93+Richard+Feynman;%E2%80%9CWhen+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor.%E2%80%9D+%E2%80%93+Elon+Musk;%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%93+Alan+Kay;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%93+John+Johnson;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%93+Austin+Freeman;%E2%80%9CCode+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%E2%80%9D+%E2%80%93+Cory+House" />
-</p>
-
-<p style="font-size: 16px; margin: 25px 0; color: #9CA3AF;">
-  <em>Building intelligent systems that scale</em>
-</p>
-
-<p style="margin: 25px 0;">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/imraghavbansal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/imraghavbansal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -169,10 +159,10 @@ Brief one-liner description of what it does
 
 ### 📈 Contributions in 2025
 
-<a href="https://github.com/imraghavbansal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" />
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
+</p>
 
 </div>
 
@@ -181,14 +171,18 @@ Brief one-liner description of what it does
 ## 📉 Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" width="49%" />
-</div>
+  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3&sideLabels=bf91f3&dates=38bdae" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imraghavbansal&theme=tokyonight" width="98%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imraghavbansal&theme=tokyonight" width="98%" alt="Profile Details"/>
+</p>
+
 </div>
 
 ---
@@ -196,7 +190,11 @@ Brief one-liner description of what it does
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="98%" />
+  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="98%" alt="Contribution Graph"/>
+</p>
+
 </div>
 
 ---
@@ -205,9 +203,10 @@ Brief one-liner description of what it does
 
 <div align="center">
 
-<!-- These numbers will auto-update based on your actual GitHub activity -->
-<img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&custom_title=My%20GitHub%20Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&custom_title=My%20GitHub%20Stats" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" alt="GitHub Streak"/>
+</p>
 
 </div>
 
@@ -216,7 +215,11 @@ Brief one-liner description of what it does
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</p>
+
 </div>
 
 ---
@@ -249,14 +252,18 @@ I'm interested in challenging projects involving:
 
 ### 📫 Get in Touch
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+<a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
 
-<br/><br/>
+<br/>
 
-![](https://komarev.com/ghpvc/?username=imraghavbansal&color=blueviolet&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imraghavbansal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 <br/>
 
