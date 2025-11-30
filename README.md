@@ -287,12 +287,6 @@ I'm interested in challenging projects involving:
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imraghavbansal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
