@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/imraghavbansal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Self-taught+full-stack+%2B+AI+developer;Learning+by+shipping+real%2C+deployed+products;Currently+building+TradeX+%E2%80%94+live+stock+market+data;Welcome+to+my+corner+of+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Self-taught+full-stack+%2B+AI+developer;Learning+by+shipping+real%2C+deployed+products;Currently+building+HealthOS+%E2%80%94+an+AI-powered+health+OS;Welcome+to+my+corner+of+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -85,6 +85,8 @@ Architecting and shipping complete web products
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -104,6 +106,30 @@ Architecting and shipping complete web products
 
 <div align="center">
 <table>
+<tr>
+<td width="100%" valign="top">
+
+### 🩺 HealthOS (Raag) — AI-Powered Personal Health OS
+
+Raag is a personal health operating system: labs, wearables, medical records, medications, and family history unified into one calm, AI-guided view. Instead of treating every doctor's visit as a blank slate, Raag remembers your health over time and helps you understand the bigger picture — what changed, what's connected, what's worth flagging.
+
+This is the most substantial thing I've built: a real, persisted backend (not a demo), with row-level security policies, versioned database migrations, and deployed Edge Functions, plus an AI layer that actually parses uploaded documents and powers an in-app health assistant.
+
+**How it works, under the hood:**
+- **TanStack Start (React 19) + TanStack Router/Query + Vite** — the frontend
+- **Tailwind v4 + Radix UI** — styling and accessible component primitives
+- **Supabase** — Postgres database, auth, storage, and Edge Functions for server-side logic
+- **Anthropic Claude** — parses uploaded medical documents and powers the AI health assistant
+- **Razorpay** — billing
+- A single typed API contract (`RaagApi`) with swappable adapters — mock (in-memory demo), Supabase (what's actually deployed), and HTTP (stubbed) — keeping the frontend buildable and testable independent of backend progress
+
+**Live:** [atlas-health-khaki.vercel.app](https://atlas-health-khaki.vercel.app)
+
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/HealthOS)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://atlas-health-khaki.vercel.app)
+
+</td>
+</tr>
 <tr>
 <td width="100%" valign="top">
 
