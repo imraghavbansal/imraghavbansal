@@ -1,292 +1,223 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghav%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=RAGHAV%20BANSAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20%7C%20Self-Taught%20%7C%20Building%20real%20products%2C%20one%20launch%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/imraghavbansal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<a href="https://github.com/imraghavbansal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Self-taught+full-stack+%2B+AI+developer;Learning+by+shipping+real%2C+deployed+products;Currently+building+TradeX+%E2%80%94+live+stock+market+data;Welcome+to+my+corner+of+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:imraghavbansal19@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/raghavbansal2006"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/></a>
+<a href="https://github.com/imraghavbansal"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="GitHub"/></a>
+<a href="https://x.com/im_raghavbansal"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-8A2BE2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29" alt="X / Twitter"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&query=%24.datetime&label=%F0%9F%95%92%20Local%20Time%20%E2%80%94%20Delhi%2C%20India&color=8A2BE2&style=for-the-badge&labelColor=0f0c29" alt="Local Time in Delhi"/>
+
+<br/>
+
+<img src="https://wttr.in/Delhi.png?m&lang=en" alt="Live weather in Delhi, India" width="450"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🎯 Overview
+<h2 align="center">🛰️ Mission Briefing</h2>
 
-AI engineer with expertise in **production machine learning systems**, **computer vision**, and **blockchain infrastructure**. I specialize in taking models from research to deployment—building systems that handle real-world complexity at scale.
+<p align="center">
+I'm a self-taught full-stack developer who learns by building real, deployed products instead of working through tutorials in isolation.<br/>
+Lately that means shipping SaaS-shaped tools and exploring practical, non-gimmicky ways to fold AI into everyday workflows.
+</p>
 
-**Core competencies:** Deep learning architecture design, image segmentation pipelines, smart contract development, distributed systems, and full-stack engineering.
+<p align="center">
+<b>Core focus:</b> Full-stack product engineering • Real-time data & background jobs • Practical AI integrations • Shipping end to end, not just prototyping
+</p>
 
----
+<br/>
 
-## 💡 What I Build
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI & Computer Vision
-Building neural networks that see and understand
+### 🧠 AI, Practically Applied
+Folding AI into real product features, not demos
 
-- Custom segmentation architectures
-- Real-time inference pipelines
-- Edge detection & object isolation
-- Model optimization & quantization
-- Production ML deployment
+- AI-assisted feature development (Google Gemini)
+- Exploring agentic and tool-using workflows
+- Picking AI tools for the job, not for the hype
+- Learning in public as the space moves fast
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Full-Stack Development
-Architecting scalable web systems
+### 🌌 Full-Stack Development
+Architecting and shipping complete web products
 
-- Modern web applications (React/Next.js)
-- RESTful & GraphQL APIs
-- Microservices architecture
-- Real-time data processing
-- Cloud infrastructure (AWS/GCP)
+- Modern web applications (Next.js/React/TypeScript)
+- Real-time data pipelines & scheduled background jobs
+- Authenticated, database-backed applications
+- Deployed, production-facing — not just localhost
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🛠️ Technical Arsenal
+<h2 align="center">🪐 Technical Arsenal</h2>
 
 <div align="center">
 
-### Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+**Frontend**
 
-### Backend & DevOps
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**AI & Tooling**
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🚀 Featured Projects
+<h2 align="center">🌠 Featured Projects</h2>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🎯 [Project Name Here]
-Brief one-liner description of what it does
+### 📈 TradeX — Real-Time Stock Market Intelligence Platform
 
-**Tech:** PyTorch • FastAPI • Docker  
-**Highlights:** Real technical achievement here
+TradeX is a full-stack stock market tracking platform built for investors who want real, live market data instead of the delayed, cluttered dashboards most free tools offer. Users can search any public company, watch live-updating price charts powered by embedded **TradingView** widgets, dig into fundamentals and company insights, build a personal **watchlist**, and set **price alerts** that get checked on a schedule and emailed the moment a target is hit — no manual refreshing, no missed moves.
 
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
+**Why I built it:** I wanted to go beyond tutorial-level CRUD apps and ship something with the moving parts of a real production system — live third-party data, background job scheduling, authenticated user state, and transactional email — glued together in a single deployed app rather than left as disconnected demos.
 
-</td>
-<td width="50%" valign="top">
+**How it works, under the hood:**
+- **Next.js + TypeScript** — the full app: server-rendered pages, API routes, and the client UI
+- **Finnhub API** — live stock quotes, company profiles, and market data
+- **TradingView widgets** — embedded, real-time interactive price charts
+- **MongoDB Atlas** — stores user accounts, watchlists, and alert configuration on an always-on cloud cluster
+- **Better Auth** — handles sign-up/sign-in and session management
+- **Inngest** — runs as a background scheduler that checks price alerts, refreshes market data, and triggers transactional emails on a timer, independent of the request/response cycle
+- **Nodemailer** — sends welcome emails, news digests, and price-alert notifications
+- **Google Gemini** — powers AI-assisted features inside the app
+- Deployed on **Vercel**, with the Inngest–Vercel integration wired in so the scheduled jobs actually fire in production
 
-### ⚡ [Project Name Here]
-Brief one-liner description of what it does
+**Live:** [usetradex.vercel.app](https://usetradex.vercel.app)
 
-**Tech:** Next.js • Node.js • PostgreSQL  
-**Highlights:** Real technical achievement here
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/TradeX)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://usetradex.vercel.app)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🌐 [Project Name Here]
-Brief one-liner description of what it does
+### ✅ To-Do-List
+A side-by-side implementation of a classic to-do list app, built while learning the fundamentals of React — component state, controlled inputs, and list rendering.
 
-**Tech:** React • TypeScript • TailwindCSS  
-**Highlights:** Real technical achievement here
+**Tech:** React • JavaScript
 
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 [Project Name Here]
-Brief one-liner description of what it does
-
-**Tech:** OpenCV • TensorFlow  
-**Highlights:** Real technical achievement here
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/repo-name)
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/To-Do-List)
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imraghavbansal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 49%; height: auto;"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 49%; height: auto;"/>
-</p>
-
-</div>
-
----
-
-## 📈 Activity Overview
+<h2 align="center">📡 Mission Control — GitHub Stats</h2>
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 49%; height: auto;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=radical&utcOffset=5.5" alt="Productive Time" style="max-width: 49%; height: auto;"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraghavbansal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages" width="42%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imraghavbansal&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" alt="Contribution Graph" width="94%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="94%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 📊 Profile Details
-
-<div align="center">
+<h2 align="center">🔭 Continuous Growth</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imraghavbansal&theme=radical" alt="Profile Details" style="max-width: 100%; height: auto;"/>
+Staying sharp through:
 </p>
-
-</div>
-
----
-
-## 📉 Contribution Graph
-
-<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
+🚀 Shipping real, deployed side projects instead of stopping at tutorials<br/>
+🧪 Experimenting with practical, product-focused applications of AI<br/>
+🌐 Contributing to open source whenever I find the itch<br/>
+💬 Learning in public — building this whole profile and portfolio as I go
 </p>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
----
-
-## 💻 Contribution Activity
-
-<div align="center">
+<h2 align="center">🤝 Let's Collaborate</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imraghavbansal&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" style="max-width: 49%; height: auto;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 49%; height: auto;"/>
+I'm interested in projects involving:
 </p>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imraghavbansal&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
+<b>Full-Stack Development</b> — SaaS products, dashboards, real-time data apps<br/>
+<b>Practical AI Integrations</b> — AI features that solve a real problem, not a demo<br/>
+<b>Open Source</b> — Contributing to tools and projects I actually use<br/>
+<b>Learning Collaborations</b> — Building alongside other self-taught devs
 </p>
 
-</div>
+<p align="center">
+<b>Open to:</b> Freelance projects • Internships • Open-source collaboration • Learning together
+</p>
 
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI/ML Engineer
-**Production Systems**
-
-- Built CV pipelines processing 10K+ daily images
-- Optimized models: 8s → 1.2s inference  
-- Deployed systems achieving 95%+ accuracy
-- Automated training for 500K+ images/month
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Full-Stack Engineer
-**Scalable Systems**
-
-- Served 100K+ monthly active users
-- Built microservices with 99.9% uptime
-- Migrated to K8s (60% efficiency gain)
-- CI/CD: hours → minutes deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Continuous Growth
-
-Staying at the forefront of technology through:
-
-- 📄 Regular deep-dives into ML research papers (Vision Transformers, Diffusion Models)
-- 🧪 Experimenting with cutting-edge architectures and training techniques
-- 🌐 Contributing to open-source ML and Web3 projects
-- 💬 Engaging with engineering communities and sharing knowledge
-
----
-
-## 🤝 Let's Collaborate
-
-I'm interested in challenging projects involving:
-
-- **Advanced Computer Vision:** Object detection, segmentation, generative models
-- **Production ML Systems:** High-performance inference, model optimization, MLOps
-- **Full-Stack Development:** Scalable web applications, modern architectures
-- **Distributed Systems:** Microservices, event-driven architecture, real-time processing
-
-**Open to:** Full-time opportunities • Contract work • Technical consulting • Research collaboration
-
----
+<br/>
 
 <div align="center">
 
 ### 📫 Get in Touch
 
-<p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-<a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+<a href="mailto:imraghavbansal19@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/raghavbansal2006"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/></a>
+<a href="https://x.com/im_raghavbansal"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-8A2BE2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29" alt="X / Twitter"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
+<i>"Somewhere, something incredible is waiting to be built."</i>
 
 </div>
