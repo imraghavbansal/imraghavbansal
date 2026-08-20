@@ -61,7 +61,7 @@ Architecting and shipping complete web products
 - Modern web applications (Next.js/React/TypeScript)
 - Real-time data pipelines & scheduled background jobs
 - Authenticated, database-backed applications
-- Deployed, production-facing — not just localhost
+- Deployed, production-facing - not just localhost
 
 </td>
 </tr>
@@ -116,12 +116,12 @@ Raag is a personal health operating system: labs, wearables, medical records, me
 This is the most substantial thing I've built: a real, persisted backend (not a demo), with row-level security policies, versioned database migrations, and deployed Edge Functions, plus an AI layer that actually parses uploaded documents and powers an in-app health assistant.
 
 **How it works, under the hood:**
-- **TanStack Start (React 19) + TanStack Router/Query + Vite** — the frontend
-- **Tailwind v4 + Radix UI** — styling and accessible component primitives
-- **Supabase** — Postgres database, auth, storage, and Edge Functions for server-side logic
+- **TanStack Start (React 19) + TanStack Router/Query + Vite** - the frontend
+- **Tailwind v4 + Radix UI** - styling and accessible component primitives
+- **Supabase** - Postgres database, auth, storage, and Edge Functions for server-side logic
 - **Anthropic Claude** — parses uploaded medical documents and powers the AI health assistant
-- **Razorpay** — billing
-- A single typed API contract (`RaagApi`) with swappable adapters — mock (in-memory demo), Supabase (what's actually deployed), and HTTP (stubbed) — keeping the frontend buildable and testable independent of backend progress
+- **Razorpay** - billing
+- A single typed API contract (`RaagApi`) with swappable adapters - mock (in-memory demo), Supabase (what's actually deployed), and HTTP (stubbed) - keeping the frontend buildable and testable independent of backend progress
 
 **Live:** [raag-health.vercel.app](https://raag-health.vercel.app)
 
@@ -140,15 +140,15 @@ TradeX is a full-stack stock market tracking platform built for investors who wa
 **Why I built it:** I wanted to go beyond tutorial-level CRUD apps and ship something with the moving parts of a real production system — live third-party data, background job scheduling, authenticated user state, and transactional email — glued together in a single deployed app rather than left as disconnected demos.
 
 **How it works, under the hood:**
-- **Next.js + TypeScript** — the full app: server-rendered pages, API routes, and the client UI
-- **Finnhub API** — live stock quotes, company profiles, and market data
-- **TradingView widgets** — embedded, real-time interactive price charts
-- **MongoDB Atlas** — stores user accounts, watchlists, and alert configuration on an always-on cloud cluster
-- **Better Auth** — handles sign-up/sign-in and session management
-- **Inngest** — runs as a background scheduler that checks price alerts, refreshes market data, and triggers transactional emails on a timer, independent of the request/response cycle
-- **Nodemailer** — sends welcome emails, news digests, and price-alert notifications
-- **Google Gemini** — powers AI-assisted features inside the app
-- Deployed on **Vercel**, with the Inngest–Vercel integration wired in so the scheduled jobs actually fire in production
+- **Next.js + TypeScript** - the full app: server-rendered pages, API routes, and the client UI
+- **Finnhub API** - live stock quotes, company profiles, and market data
+- **TradingView widgets** - embedded, real-time interactive price charts
+- **MongoDB Atlas** - stores user accounts, watchlists, and alert configuration on an always-on cloud cluster
+- **Better Auth** - handles sign-up/sign-in and session management
+- **Inngest** - runs as a background scheduler that checks price alerts, refreshes market data, and triggers transactional emails on a timer, independent of the request/response cycle
+- **Nodemailer** - sends welcome emails, news digests, and price-alert notifications
+- **Google Gemini** - powers AI-assisted features inside the app
+- Deployed on **Vercel**, with the Inngest-Vercel integration wired in so the scheduled jobs actually fire in production
 
 **Live:** [usetradex.vercel.app](https://usetradex.vercel.app)
 
@@ -174,7 +174,7 @@ A side-by-side implementation of a classic to-do list app, built while learning 
 
 <img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/starfield-divider.svg" width="100%" height="40" alt="✧"/>
 
-<h2 align="center">📡 Mission Control — GitHub Stats</h2>
+<h2 align="center">📡 Mission Control - GitHub Stats</h2>
 
 <div align="center">
 
@@ -186,7 +186,7 @@ A side-by-side implementation of a classic to-do list app, built while learning 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fimraghavbansal&query=%24.public_repos&label=Public%20Repos&color=8A2BE2&style=for-the-badge&labelColor=0f0c29&logo=github" alt="Public Repos"/>
 <img src="https://img.shields.io/github/last-commit/imraghavbansal/TradeX?style=for-the-badge&label=Last%20Commit%20(TradeX)&color=8A2BE2&labelColor=0f0c29&logo=github" alt="Last Commit"/>
 
-<p><sub>The flashier stats-card generators (contribution graph, trophies) are currently down/rate-limited on their free hosting — swapped these in instead since they hit GitHub's API directly and don't depend on a third party staying up.</sub></p>
+<p><sub>The flashier stats-card generators (contribution graph, trophies) are currently down/rate-limited on their free hosting - swapped these in instead since they hit GitHub's API directly and don't depend on a third party staying up.</sub></p>
 
 </div>
 
@@ -202,7 +202,7 @@ Staying sharp through:
 🚀 Shipping real, deployed side projects instead of stopping at tutorials<br/>
 🧪 Experimenting with practical, product-focused applications of AI<br/>
 🌐 Contributing to open source whenever I find the itch<br/>
-💬 Learning in public — building this whole profile and portfolio as I go
+💬 Learning in public - building this whole profile and portfolio as I go
 </p>
 
 <img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/starfield-divider.svg" width="100%" height="40" alt="✧"/>
@@ -214,10 +214,10 @@ I'm interested in projects involving:
 </p>
 
 <p align="center">
-<b>Full-Stack Development</b> — SaaS products, dashboards, real-time data apps<br/>
-<b>Practical AI Integrations</b> — AI features that solve a real problem, not a demo<br/>
-<b>Open Source</b> — Contributing to tools and projects I actually use<br/>
-<b>Learning Collaborations</b> — Building alongside other self-taught devs
+<b>Full-Stack Development</b> - SaaS products, dashboards, real-time data apps<br/>
+<b>Practical AI Integrations</b> - AI features that solve a real problem, not a demo<br/>
+<b>Open Source</b> - Contributing to tools and projects I actually use<br/>
+<b>Learning Collaborations</b> - Building alongside other self-taught devs
 </p>
 
 <p align="center">
