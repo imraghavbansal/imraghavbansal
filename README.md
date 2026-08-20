@@ -109,9 +109,9 @@ Architecting and shipping complete web products
 <tr>
 <td width="100%" valign="top">
 
-### 🩺 Raag (HealthOS) — AI-Powered Personal Health OS
+### 🩺 Raag (HealthOS) - AI-Powered Personal Health OS
 
-Raag is a personal health operating system: labs, wearables, medical records, medications, and family history unified into one calm, AI-guided view. Instead of treating every doctor's visit as a blank slate, Raag remembers your health over time and helps you understand the bigger picture — what changed, what's connected, what's worth flagging.
+Raag is a personal health operating system: labs, wearables, medical records, medications, and family history unified into one calm, AI-guided view. Instead of treating every doctor's visit as a blank slate, Raag remembers your health over time and helps you understand the bigger picture - what changed, what's connected, what's worth flagging.
 
 This is the most substantial thing I've built: a real, persisted backend (not a demo), with row-level security policies, versioned database migrations, and deployed Edge Functions, plus an AI layer that actually parses uploaded documents and powers an in-app health assistant.
 
@@ -133,11 +133,11 @@ This is the most substantial thing I've built: a real, persisted backend (not a 
 <tr>
 <td width="100%" valign="top">
 
-### 📈 TradeX — Real-Time Stock Market Intelligence Platform
+### 📈 TradeX - Real-Time Stock Market Intelligence Platform
 
-TradeX is a full-stack stock market tracking platform built for investors who want real, live market data instead of the delayed, cluttered dashboards most free tools offer. Users can search any public company, watch live-updating price charts powered by embedded **TradingView** widgets, dig into fundamentals and company insights, build a personal **watchlist**, and set **price alerts** that get checked on a schedule and emailed the moment a target is hit — no manual refreshing, no missed moves.
+TradeX is a full-stack stock market tracking platform built for investors who want real, live market data instead of the delayed, cluttered dashboards most free tools offer. Users can search any public company, watch live-updating price charts powered by embedded **TradingView** widgets, dig into fundamentals and company insights, build a personal **watchlist**, and set **price alerts** that get checked on a schedule and emailed the moment a target is hit - no manual refreshing, no missed moves.
 
-**Why I built it:** I wanted to go beyond tutorial-level CRUD apps and ship something with the moving parts of a real production system — live third-party data, background job scheduling, authenticated user state, and transactional email — glued together in a single deployed app rather than left as disconnected demos.
+**Why I built it:** I wanted to go beyond tutorial-level CRUD apps and ship something with the moving parts of a real production system - live third-party data, background job scheduling, authenticated user state, and transactional email - glued together in a single deployed app rather than left as disconnected demos.
 
 **How it works, under the hood:**
 - **Next.js + TypeScript** - the full app: server-rendered pages, API routes, and the client UI
@@ -161,7 +161,7 @@ TradeX is a full-stack stock market tracking platform built for investors who wa
 <td width="100%" valign="top">
 
 ### ✅ To-Do-List
-A side-by-side implementation of a classic to-do list app, built while learning the fundamentals of React — component state, controlled inputs, and list rendering.
+A side-by-side implementation of a classic to-do list app, built while learning the fundamentals of React - component state, controlled inputs, and list rendering.
 
 **Tech:** React • JavaScript
 
@@ -199,10 +199,11 @@ Staying sharp through:
 </p>
 
 <p align="center">
-🚀 Shipping real, deployed side projects instead of stopping at tutorials<br/>
-🧪 Experimenting with practical, product-focused applications of AI<br/>
-🌐 Contributing to open source whenever I find the itch<br/>
-💬 Learning in public - building this whole profile and portfolio as I go
+🚀 Turning curiosity into things - building, experimenting, and occasionally going way too deep down a rabbit hole
+🧪 Pushing AI beyond the demos - exploring what’s actually useful in the real world
+🌐 Falling down open-source rabbit holes - contributing whenever I find something worth improving
+💬 Learning in public - writing, sharing, and collecting everything I learn along the way
+
 </p>
 
 <img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/starfield-divider.svg" width="100%" height="40" alt="✧"/>
@@ -216,6 +217,7 @@ I'm interested in projects involving:
 <p align="center">
 <b>Full-Stack Development</b> - SaaS products, dashboards, real-time data apps<br/>
 <b>Practical AI Integrations</b> - AI features that solve a real problem, not a demo<br/>
+<b>Product & GTM</b> - Understanding users, validating ideas, creating real value, and figuring out how products reach the right people<br/>
 <b>Open Source</b> - Contributing to tools and projects I actually use<br/>
 <b>Learning Collaborations</b> - Building alongside other self-taught devs
 </p>
