@@ -47,7 +47,7 @@ Lately that means shipping SaaS-shaped tools and exploring practical, non-gimmic
 ### 🧠 AI, Practically Applied
 Folding AI into real product features, not demos
 
-- AI-assisted feature development (Google Gemini)
+- AI-assisted feature development 
 - Exploring agentic and tool-using workflows
 - Picking AI tools for the job, not for the hype
 - Learning in public as the space moves fast
