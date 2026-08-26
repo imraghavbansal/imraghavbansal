@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=RAGHAV%20BANSAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20%7C%20Self-Taught%20%7C%20Building%20real%20products%2C%20one%20launch%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/hero-banner.svg" width="100%" alt="Raghav Bansal"/>
 
 <br/>
 
@@ -11,9 +11,10 @@
 <br/><br/>
 
 <a href="mailto:imraghavbansal19@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/raghavbansal2006"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/raghavbansal2006"><img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/badge-linkedin.svg" alt="LinkedIn" height="28"/></a>
 <a href="https://github.com/imraghavbansal"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="GitHub"/></a>
 <a href="https://x.com/im_raghavbansal"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-8A2BE2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29" alt="X / Twitter"/></a>
+<a href="https://medium.com/@imraghavbansal"><img src="https://img.shields.io/badge/Medium-8A2BE2?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29" alt="Medium"/></a>
 
 <br/><br/>
 
@@ -204,8 +205,6 @@ TradeX is a full-stack stock market tracking platform built for investors who wa
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fimraghavbansal&query=%24.public_repos&label=Public%20Repos&color=8A2BE2&style=for-the-badge&labelColor=0f0c29&logo=github" alt="Public Repos"/>
 <img src="https://img.shields.io/github/last-commit/imraghavbansal/TradeX?style=for-the-badge&label=Last%20Commit%20(TradeX)&color=8A2BE2&labelColor=0f0c29&logo=github" alt="Last Commit"/>
 
-<p><sub>The flashier stats-card generators (contribution graph, trophies) are currently down/rate-limited on their free hosting - swapped these in instead since they hit GitHub's API directly and don't depend on a third party staying up.</sub></p>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/starfield-divider.svg" width="100%" height="40" alt="✧"/>
@@ -217,11 +216,10 @@ Staying sharp through:
 </p>
 
 <p align="center">
-🚀 Turning curiosity into things - building, experimenting, and occasionally going way too deep down a rabbit hole
-🧪 Pushing AI beyond the demos - exploring what’s actually useful in the real world
-🌐 Falling down open-source rabbit holes - contributing whenever I find something worth improving
+🚀 Turning curiosity into things - building, experimenting, and occasionally going way too deep down a rabbit hole<br/>
+🧪 Pushing AI beyond the demos - exploring what's actually useful in the real world<br/>
+🌐 Falling down open-source rabbit holes - contributing whenever I find something worth improving<br/>
 💬 Learning in public - writing, sharing, and collecting everything I learn along the way
-
 </p>
 
 <img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/starfield-divider.svg" width="100%" height="40" alt="✧"/>
@@ -251,13 +249,14 @@ I'm interested in projects involving:
 ### 📫 Get in Touch
 
 <a href="mailto:imraghavbansal19@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/raghavbansal2006"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/raghavbansal2006"><img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/main/assets/badge-linkedin.svg" alt="LinkedIn" height="28"/></a>
 <a href="https://x.com/im_raghavbansal"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-8A2BE2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29" alt="X / Twitter"/></a>
+<a href="https://medium.com/@imraghavbansal"><img src="https://img.shields.io/badge/Medium-8A2BE2?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29" alt="Medium"/></a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
-<i>"Somewhere, something incredible is waiting to be built."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4200&pause=1400&color=C4B5FD&center=true&vCenter=true&width=780&height=50&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world...%22+%E2%80%94+Steve+Jobs;%22When+something+is+important+enough%2C+you+do+it+even+if+the+odds...%22+%E2%80%94+Elon+Musk;%22The+cosmos+is+within+us.+We+are+made+of+star-stuff.%22+%E2%80%94+Carl+Sagan;%22That%27s+one+small+step+for+man%2C+one+giant+leap+for+mankind.%22+%E2%80%94+Neil+Armstrong;%22Your+work+is+going+to+fill+a+large+part+of+your+life...%22+%E2%80%94+Steve+Jobs;%22AI+is+more+profound+than+electricity+or+fire.%22+%E2%80%94+Sundar+Pichai;%22The+most+dangerous+phrase+is%2C+%27We%27ve+always+done+it+this+way.%27%22+%E2%80%94+Grace+Hopper;%22I+think+it+is+possible+for+ordinary+people+to+choose+to+be+extraordinary.%22+%E2%80%94+Elon+Musk;%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22+%E2%80%94+Carl+Sagan" alt="Quotes" />
 
 </div>
