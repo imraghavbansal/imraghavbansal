@@ -188,11 +188,11 @@ TradeX is a full-stack stock market tracking platform built for investors who wa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" alt="Contribution Activity Graph" width="90%"/>
+<img src="https://activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" alt="Contribution Activity Graph" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="80%"/>
 
 <br/><br/>
 
