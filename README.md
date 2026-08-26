@@ -119,7 +119,7 @@ This is the most substantial thing I've built: a real, persisted backend (not a 
 - **TanStack Start (React 19) + TanStack Router/Query + Vite** - the frontend
 - **Tailwind v4 + Radix UI** - styling and accessible component primitives
 - **Supabase** - Postgres database, auth, storage, and Edge Functions for server-side logic
-- **Anthropic Claude** — parses uploaded medical documents and powers the AI health assistant
+- **Anthropic Claude** - parses uploaded medical documents and powers the AI health assistant
 - **Razorpay** - billing
 - A single typed API contract (`RaagApi`) with swappable adapters - mock (in-memory demo), Supabase (what's actually deployed), and HTTP (stubbed) - keeping the frontend buildable and testable independent of backend progress
 
