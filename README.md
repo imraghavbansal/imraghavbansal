@@ -160,12 +160,22 @@ TradeX is a full-stack stock market tracking platform built for investors who wa
 <tr>
 <td width="100%" valign="top">
 
-### ✅ To-Do-List
-A side-by-side implementation of a classic to-do list app, built while learning the fundamentals of React - component state, controlled inputs, and list rendering.
+### 🧭 TraceOS - AI Change Intelligence System
 
-**Tech:** React • JavaScript
+**"Know what a change will break before you ship it."** TraceOS answers the question every team shipping prompts or model changes eventually asks the hard way: *before* a change goes out, which real historical workflows would it have broken? Instead of shipping blind and finding out from users, TraceOS finds comparable historical executions, replays the candidate prompt/model config against them, and produces an evidence-backed **Blast Radius Diff** with a Ship / Modify / Block recommendation.
 
-[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/To-Do-List)
+**Why I'm building it:** most AI observability tools tell you what already broke. I wanted to explore the harder, more useful problem - predicting impact *before* deploy - using cohort-based replay instead of a black-box model with no training data to justify it.
+
+**How it works, under the hood:**
+- **Next.js (App Router) + TypeScript + Tailwind** - the dashboard
+- **FastAPI + SQLAlchemy + Alembic** - the async Python backend (ingestion, change engine, query API)
+- **Postgres + pgvector on Supabase** - relational data and cohort-matching similarity search in one store
+- **TraceOS Python SDK** - the ingestion path agent/RAG developers instrument their code with
+- A 17-table schema built around three USPs: Blast Radius Diff, a Prediction Scorecard that grades every forecast against real post-ship outcomes, and a Ship/Modify/Block gate shaped like a CI check
+
+**Status:** Phase 1 (monorepo, DB schema, auth, dashboard shell) shipped; Phase 2 (SDK + ingestion) in progress.
+
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/TraceOS)
 
 </td>
 </tr>
@@ -178,7 +188,15 @@ A side-by-side implementation of a classic to-do list app, built while learning 
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imraghavbansal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" alt="Contribution Activity Graph" width="90%"/>
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraghavbansal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="80%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/imraghavbansal/imraghavbansal/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="90%"/>
 
 <br/><br/>
 
