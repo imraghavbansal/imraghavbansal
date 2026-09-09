@@ -31,7 +31,7 @@
 <h2 align="center">🛰️ Mission Briefing</h2>
 
 <p align="center">
-I'm a self-taught full-stack developer who learns by building real, deployed products instead of working through tutorials in isolation.<br/>
+I'm a self-taught full-stack developer who learns by building real, deployed products.<br/>
 Lately that means shipping SaaS-shaped tools and exploring practical, non-gimmicky ways to fold AI into everyday workflows.
 </p>
 
