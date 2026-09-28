@@ -174,9 +174,6 @@ TradeX is a full-stack stock market tracking platform built for investors who wa
 - **TraceOS Python SDK** - the ingestion path agent/RAG developers instrument their code with
 - A 17-table schema built around three USPs: Blast Radius Diff, a Prediction Scorecard that grades every forecast against real post-ship outcomes, and a Ship/Modify/Block gate shaped like a CI check
 
-**Status:** Phase 1 (monorepo, DB schema, auth, dashboard shell) shipped; Phase 2 (SDK + ingestion) in progress.
-
-[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imraghavbansal/TraceOS)
 
 </td>
 </tr>
