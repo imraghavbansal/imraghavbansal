@@ -61,8 +61,7 @@ Architecting and shipping complete web products
 
 - Modern web applications (Next.js/React/TypeScript)
 - Real-time data pipelines & scheduled background jobs
-- Authenticated, database-backed applications
-- Deployed, production-facing - not just localhost
+- Authenticated, database-backed applications and deployed
 
 </td>
 </tr>
